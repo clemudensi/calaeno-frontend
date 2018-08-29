@@ -4,7 +4,6 @@ import {Route, Switch} from 'react-router-dom';
 import classNames from "classnames";
 import IndexRoute from 'routes/index';
 import withAuth from 'views/auth/components/WithAuth';
-import 'mdbreact/dist/css/mdb.css';
 import Home from "views/home/HomePage";
 import withStyles from "@material-ui/core/styles/withStyles";
 import NavBar from 'views/auth/NavBar';
