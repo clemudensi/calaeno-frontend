@@ -1,6 +1,6 @@
 {
   "name": "material-kit-pro-react",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://glacial-atoll-65198.herokuapp.com",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
