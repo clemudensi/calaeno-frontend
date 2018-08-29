@@ -4,8 +4,6 @@ import {Route, Switch} from 'react-router-dom';
 import classNames from "classnames";
 import IndexRoute from 'routes/index';
 import withAuth from 'views/auth/components/WithAuth';
-import 'font-awesome/css/font-awesome.min.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import Home from "views/home/HomePage";
 import withStyles from "@material-ui/core/styles/withStyles";
